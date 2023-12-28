@@ -28,4 +28,5 @@ chmod +x s3_uploader.sh
 ### Common Issues
 - This code is written in Bash and is intended to run in a Unix-like environment. It is not compatible with Windows.
 - Verify the accuracy of your AWS account configurations; the script will not function correctly otherwise.
+- Ensure your IAM user or role has 's3:PutObject' permissions and the S3 bucket policies allow the 'PutObject' action for successful uploads.
   
