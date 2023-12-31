@@ -1,5 +1,6 @@
 ## Overview
 I crafted the S3 file uploader script as a hands-on exercise to enhance my bash scripting skills, deepen my understanding of AWS CLI, and practice file handling, user input processing, AWS S3 interaction, and error handling. This concise and practical script is designed for individuals who want tangible experience in automating file uploads to Amazon S3 and managing resources in AWS environments.
+- Here is the link to the details to this project made by Gwyneth Peña-Siguenza: [6 Month Cloud Challenge](https://www.madebygps.com/cloudcamp/) 
 
 - This bash script automates the process of uploading a local file to an Amazon S3 bucket.
 - It checks if the provided file path is valid, verifies the existence of the file, then 
